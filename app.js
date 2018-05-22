@@ -2,11 +2,6 @@ var Discord = require('discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
 var time_startup = new Date().getTime();
-const CoinMarketCap = require('coinmarketcap-api');
-client = new CoinMarketCap();
-
-let btc;
-let usd;
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
