@@ -1,0 +1,27 @@
+{
+  "kbhelp": {
+    "about": "If you have a problem with a topic you can type \"!kbhelp <search term>\". To get a list of all commands write \"!kbhelp list\". \n\nThe bot is still work in progress. If something is missing or not working contact Jonathan.",
+    "list": "This is a list of all currently supported commands.\n\nDefault commands: \"about\", \"list\"\n\nGeneral commands: \"data\", \"bootstrap\", \"connection\", \"firewall\", \"backup\", \"encrypt\", \"repair\", \"update\", \"restore\", \"electrum\"\n\nSpecific commands: \"navpi\", \"navpay\", \"paper\", \"navcoin\"",
+    "navpi": "https://info.navcoin.org/knowledge-base/how-to-set-up-the-navpi/",
+    "data": "https://info.navcoin.org/knowledge-base/how-to-find-the-navcoin-data-folder/",
+    "connection": "https://info.navcoin.org/knowledge-base/how-to-increase-your-connection-count/",
+    "bootstrap": "https://info.navcoin.org/knowledge-base/how-to-bootstrap-your-core-wallet/",
+    "backup": "https://info.navcoin.org/knowledge-base/how-to-encrypt-and-back-up-your-navcoin-core-wallet/",
+    "encrypt": "https://info.navcoin.org/knowledge-base/how-to-encrypt-and-back-up-your-navcoin-core-wallet/",
+    "repair": "https://info.navcoin.org/knowledge-base/fixing-a-wallet-balance-with-missing-coins-incorrect-balance/",
+    "update": "NavCoin Core: https://info.navcoin.org/knowledge-base/how-to-update-your-navcoin-core-wallet/ NavPi: https://info.navcoin.org/knowledge-base/how-to-update-the-navpi/",
+    "restore": "NavCoin Core: https://info.navcoin.org/knowledge-base/how-to-restore-your-navcoin-core-wallet-from-a-backup/ NavPi: https://info.navcoin.org/knowledge-base/restoring-your-wallet-to-a-navpi/",
+    "electrum": "https://info.navcoin.org/knowledge-base/how-do-i-get-coins-out-of-the-electrum-wallet/",
+    "firewall": "https://info.navcoin.org/knowledge-base/how-to-open-the-firewall-ports-for-navcoin-core-and-navpi/",
+    "navpay": "https://info.navcoin.org/article-categories/navpay/",
+    "navcoin": "https://info.navcoin.org/article-categories/navcoin/",
+    "paper": "https://info.navcoin.org/article-categories/paper-wallet/"
+  },
+  "nts": {
+    "update": "https://navtechservers.com/navcore-4-1-x/",
+    "navtech": "https://navtechservers.com/navtech-tutorial/",
+    "video": "https://navtechservers.com/video-tutorials/",
+    "navpi": "https://navtechservers.com/tutorials/navpi-4-1-x/",
+    "repair": "https://navtechservers.com/tutorials/written-tutorials/#NavPi"
+  }
+}
