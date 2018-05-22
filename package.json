@@ -1,0 +1,14 @@
+{
+  "name": "kbhelperbot",
+  "version": "1.0.0",
+  "description": "NavCoin Knowledge Base Bot",
+  "main": "app.js",
+  "author": "IfaqYurmama",
+  "dependencies": {
+    "coinmarketcap-api": "^2.0.1",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js-commando": "^0.9.0",
+    "nvm": "0.0.4",
+    "winston": "^2.4.1"
+  }
+}
