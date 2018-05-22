@@ -5,6 +5,7 @@
   "main": "app.js",
   "author": "IfaqYurmama",
   "dependencies": {
+    "axios": "^0.18.0",
     "coinmarketcap-api": "^2.0.1",
     "discord.io": "github:woor/discord.io#gateway_v6",
     "discord.js-commando": "^0.9.0",
