@@ -4,8 +4,7 @@ bot.on('ready', function (evt) {
     Logger.info('Logged in as: ');
     Logger.info(bot.username + ' - (' + bot.id + ')');
 
-    bot.setPresence(
-        {
+    bot.setPresence({
             "idle_since": null,
             "game": {
                 "name": "!kbhelp about"
