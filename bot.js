@@ -32,7 +32,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
             if ((cmd === 'kbhelp' || cmd === 'nts') && messages[cmd][argument]) {
 
                 response = messages[cmd][argument];
-                Logger.info(argument + "command invoked by user: " + user);
+                Logger.info(argument + " command invoked by user: " + user);
 
             } else if (cmd === 'uptime') {
 
